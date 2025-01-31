@@ -1,0 +1,168 @@
+  0
+LAYERSTATEDICTIONARY
+  0
+LAYERSTATE
+  1
+DIBUJO TECNICO I
+ 91
+2047
+301
+
+290
+0
+302
+Línea de Ejes
+  8
+Defpoints
+ 90
+0
+ 62
+7
+370
+-3
+  6
+Continuous
+  2
+Color_7
+440
+0
+  8
+Margen
+ 90
+8
+ 62
+4
+370
+70
+  6
+Continuous
+  2
+Color_4
+440
+0
+  8
+Cuadro de Datos
+ 90
+8
+ 62
+5
+370
+30
+  6
+Continuous
+  2
+Color_5
+440
+0
+  8
+Línea Interrumpida
+ 90
+8
+ 62
+6
+370
+5
+  6
+DASHED2
+  2
+Color_6
+440
+0
+  8
+Línea de Ejes
+ 90
+8
+ 62
+6
+370
+5
+  6
+CENTER2
+  2
+Color_6
+440
+0
+  8
+Texto Títulos
+ 90
+8
+ 62
+1
+370
+-3
+  6
+Continuous
+  2
+Color_1
+440
+0
+  8
+Texto
+ 90
+8
+ 62
+1
+370
+-3
+  6
+Continuous
+  2
+Color_1
+440
+0
+  8
+Línea Continua Fina
+ 90
+8
+ 62
+1
+370
+5
+  6
+Continuous
+  2
+Color_1
+440
+0
+  8
+Linea Continua Mediana
+ 90
+8
+ 62
+5
+370
+50
+  6
+Continuous
+  2
+Color_5
+440
+0
+  8
+Linea Continua Gruesa
+ 90
+8
+ 62
+4
+370
+70
+  6
+Continuous
+  2
+Color_4
+440
+0
+  8
+0
+ 90
+9
+ 62
+7
+370
+-3
+  6
+Continuous
+  2
+Color_7
+440
+0
